@@ -1,0 +1,21 @@
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\bin\Debug\UWP Editorial App.exe.config
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\bin\Debug\UWP Editorial App.exe
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\bin\Debug\UWP Editorial App.pdb
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\obj\Debug\MainWindow.g.cs
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\obj\Debug\moreDetailPage.g.cs
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\obj\Debug\ScreenSaver.g.cs
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\obj\Debug\App.g.cs
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\obj\Debug\UWP Editorial App_MarkupCompile.cache
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\obj\Debug\UWP Editorial App_MarkupCompile.lref
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\obj\Debug\MainWindow.baml
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\obj\Debug\moreDetailPage.baml
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\obj\Debug\ScreenSaver.baml
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\obj\Debug\UWP Editorial App.g.resources
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\obj\Debug\UWP_Editorial_App.Properties.Resources.resources
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\obj\Debug\UWP Editorial App.csproj.GenerateResource.Cache
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\obj\Debug\UWP Editorial App.csproj.CoreCompileInputs.cache
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\obj\Debug\UWP Editorial App.exe
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\obj\Debug\UWP Editorial App.pdb
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\obj\Debug\UWP Editorial App.csprojResolveAssemblyReference.cache
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\obj\Debug\FullScreen.g.cs
+Z:\Users\Max\Documents\Visual Studio 2017\Projects\UWP Editorial App\UWP Editorial App\obj\Debug\FullScreen.baml
